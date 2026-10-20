@@ -484,6 +484,7 @@ This creates an end-to-end intelligent assistant for hackathon discovery.
 ## 👩‍💻 Author
 
 **Nisha R**
+
 **Siva Priya V**
 
 B.Tech – Artificial Intelligence & Data Science
