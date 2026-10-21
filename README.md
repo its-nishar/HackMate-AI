@@ -1,3 +1,5 @@
+# IT WAS JUST A PROTOTYPE
+
 # 🚀 HackMate-AI
 
 ### AI-Powered Hackathon Discovery, Matching & Registration Assistant
